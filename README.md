@@ -3,7 +3,7 @@
 ## Getting Started
 
 ### Demo 
-👉 [Watch Demo Video](https://drive.google.com/file/d/1YAnYOvzqOqWEHIzq3guMClxSQkf7B5UC/view?usp=sharing)
+[![Watch Demo](https://drive.google.com/uc?export=thumbnail&id=1uVUd0RmVxn-JohPLG_1JJwrxuU2OPMED)](https://drive.google.com/file/d/1uVUd0RmVxn-JohPLG_1JJwrxuU2OPMED/view)
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
