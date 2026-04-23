@@ -3,7 +3,7 @@
 ## Getting Started
 
 ### Demo 
-[![Watch Demo](https://drive.google.com/file/d/1YAnYOvzqOqWEHIzq3guMClxSQkf7B5UC/view?usp=drivesdk)]([https://www.youtube.com/watch?v=your-video-id](https://drive.google.com/file/d/1uVUd0RmVxn-JohPLG_1JJwrxuU2OPMED/view?usp=drivesdk))
+[![Watch Demo](https://drive.google.com/file/d/1YAnYOvzqOqWEHIzq3guMClxSQkf7B5UC/view?usp=drivesdk)]([https://drive.google.com/file/d/1uVUd0RmVxn-JohPLG_1JJwrxuU2OPMED/view]))
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
